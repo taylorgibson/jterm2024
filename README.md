@@ -1,2 +1,2 @@
-# jterm2024
-This is a demo repository for J-term 2024
+# This is my cool project
+Stay tuned for more cutting edge `scientific analysis` from your boy, **Mr. Gibson**.
