@@ -7,3 +7,4 @@ Stirrers
 Milk
 Banana Pudding
 Eggs
+Blanket
