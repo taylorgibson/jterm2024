@@ -5,3 +5,4 @@ Cups
 Sugar
 Stirrers
 Milk
+NVIDIA GeForce RTX 3090 Graphics Processing Unit
