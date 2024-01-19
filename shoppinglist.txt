@@ -5,3 +5,7 @@ Cups
 Sugar
 Stirrers
 Milk
+Eggs
+Ice Cream
+Cheese
+Tea
